@@ -1,5 +1,10 @@
- # 8645_computer-infrastructure
 
+
+ # 8645_Computer-Infrastructure
+
+ This subject explores how computers and networks work behind the scenes. It covers the fundamentals of hardware, operating systems, and computer networks — from processors and memory to data communication and cloud computing. Understanding this infrastructure provides the foundation for efficient data analysis and system performa.
+
+==============================================================================================================================
 
  | Stage                              | Description                                                                                                                           |       Deadline      | Status |
 | :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :-----------------: | :----: |
@@ -11,4 +16,7 @@
 | **6. Progress & Feedback**       | Make regular and incremental commits. Show continuous improvement of code and explanations.                                           | During the semester |    ☐   |
 |  **7. Final Submission**          | Ensure the final version is in the GitHub repository by the submission deadline.                                                      |   **21/12/2025**    |    ☐   |
 |  **8. Evaluation Criteria**       | Make sure all criteria are met: Presentation, Research, Documentation, Development, and Consistency.                                 |          —          |    ☐   |
+=======
+
+
 
