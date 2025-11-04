@@ -20,7 +20,7 @@
 
 
 
-  ## Tools & Technologies 
+  ## Technologies Used 
 
   * Visual Code Study
   * Python
@@ -28,10 +28,32 @@
   * Chat GPT
   * Github
 
- ## Running the Projects
+ ## References and Libraries
+ 
+ * Data Analysis and Manipulation
 
- 1- 
+pandas → table and time series manipulation (DataFrame, Series)
 
+numpy → mathematical operations and multidimensional arrays
+
+openpyxl / xlrd / xlsxwriter → reading/writing Excel files
+
+csv → native CSV file handling
+
+* Data Visualization
+matplotlib → basic and highly customizable plots
+
+* Web Scraping and APIs
+yfinance → stock quotes and financial data (from Yahoo Finance)
+
+* Text and Date Manipulation
+
+datetime / dateutil → dates and times
+
+* Environment and Utilities
+
+jupyter / notebook / jupyterlab → interactive notebook environment
+ipython → advanced interactive console
  
 
 
