@@ -41,9 +41,11 @@ openpyxl / xlrd / xlsxwriter → reading/writing Excel files
 csv → native CSV file handling
 
 * Data Visualization
+
 matplotlib → basic and highly customizable plots
 
 * Web Scraping and APIs
+
 yfinance → stock quotes and financial data (from Yahoo Finance)
 
 * Text and Date Manipulation
