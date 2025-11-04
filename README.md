@@ -16,7 +16,7 @@
 | **6. Progress & Feedback**       | Make regular and incremental commits. Show continuous improvement of code and explanations.                                           | During the semester |    ☐   |
 |  **7. Final Submission**          | Ensure the final version is in the GitHub repository by the submission deadline.                                                      |   **21/12/2025**    |    ☐   |
 |  **8. Evaluation Criteria**       | Make sure all criteria are met: Presentation, Research, Documentation, Development, and Consistency.                                 |          —          |    ☐   |
-=======
+ 
 
 
 
