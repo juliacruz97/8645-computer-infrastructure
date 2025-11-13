@@ -58,6 +58,7 @@ jupyter / notebook / jupyterlab → interactive notebook environment
 ipython → advanced interactive console
  
 
+* https://docs.python.org/pt-br/3/library/re.html
 
 
 
