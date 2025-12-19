@@ -58,7 +58,25 @@ jupyter / notebook / jupyterlab → interactive notebook environment
 ipython → advanced interactive console
  
 
-* https://docs.python.org/pt-br/3/library/re.html
+*  Python Standard Library Docs Used in the Code
+
+*  os module
+– Contains functions for interacting with the operating system, including directory creation and checking whether a path exists.
+Official docs: https://docs.python.org/3/library/os.html
+ 
+*Python documentation
+
+*os.path submodule
+– Implements functions for path manipulation (e.g., os.path.exists).
+Official docs: https://docs.python.org/3/library/os.path.html
+ 
+*Python documentation
+
+*datetime module
+– Provides classes for working with dates and times, including formatting via strftime.
+Official docs: https://docs.python.org/3/library/datetime.html
+ 
+Python documentation
 
 
 
