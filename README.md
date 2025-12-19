@@ -13,9 +13,9 @@
 |  **3. Repository Structure**      | Keep everything in the *main branch*, include `README.md`, `.gitignore`, and only the required files. Use lowercase letters and no spaces. |          —          |    ✅    |
 | **4. Problems Notebook**         | Create `problems.ipynb` and solve all exercises from `problems.md`. Use Markdown, proper headings, and clean code following PEP8.     |          —          |    ✅   |
 | **5. Target Audience & Clarity** | Ensure the assessor can easily reproduce your work. Clearly explain the project in the `README.md`.                                   |          —          |    ✅   |
-| **6. Progress & Feedback**       | Make regular and incremental commits. Show continuous improvement of code and explanations.                                           | During the semester |    ☐   |
+| **6. Progress & Feedback**       | Make regular and incremental commits. Show continuous improvement of code and explanations.                                           | During the semester |    ✅   |
 |  **7. Final Submission**          | Ensure the final version is in the GitHub repository by the submission deadline.                                                      |   **21/12/2025**    |   ✅   |
-|  **8. Evaluation Criteria**       | Make sure all criteria are met: Presentation, Research, Documentation, Development, and Consistency.                                 |          —          |    ☐   |
+|  **8. Evaluation Criteria**       | Make sure all criteria are met: Presentation, Research, Documentation, Development, and Consistency.                                 |          —          |    ✅   |
  
 
 
