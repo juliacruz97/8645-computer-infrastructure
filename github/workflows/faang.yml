@@ -3,10 +3,12 @@ name: Run FAANG Script
 on:
   schedule:
     - cron: '0 9 * * 6'  # Executa todo sábado às 9h UTC
-  workflow_dispatch:
+  workflow_dispatch:      # Permite disparo manual
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -14,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'  # Recomendo especificar a versão exata
 
       - name: Install dependencies
         run: |
@@ -22,7 +24,8 @@ jobs:
           pip install pandas matplotlib
 
       - name: Run FAANG script
-        run: python faang.py
+        run: python faang.py  # Certifique-se de que faang.py está na raiz do repositório
+
 
        
  
