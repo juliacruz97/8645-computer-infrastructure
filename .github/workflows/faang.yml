@@ -3,6 +3,7 @@ name: Run FAANG Script
 on:
   schedule:
     - cron: '0 9 * * 6'  # Executa todo sábado às 9h UTC
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,3 +23,6 @@ jobs:
 
       - name: Run FAANG script
         run: python faang.py
+
+       
+ 
