@@ -10,7 +10,7 @@
 | :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------ | :-----------------: | :----: |
 |  **1. Start of the Assessment**   | Read the instructions and the assessment guide. Plan your schedule and start early.                                                   |          —          |    ✅   |
 |  **2. Repository Creation**       | Create a dedicated GitHub repository for the assessment and submit the URL through the form.                                          |   **Submitted late**    |    ✅   |
-|  **3. Repository Structure**      | Keep everything in the *main branch*, include `README.md`, `.gitignore`, and only the required files. Use lowercase letters and no spaces. |          —          |    ☐   |
+|  **3. Repository Structure**      | Keep everything in the *main branch*, include `README.md`, `.gitignore`, and only the required files. Use lowercase letters and no spaces. |          —          |    ✅    |
 | **4. Problems Notebook**         | Create `problems.ipynb` and solve all exercises from `problems.md`. Use Markdown, proper headings, and clean code following PEP8.     |          —          |    ☐   |
 | **5. Target Audience & Clarity** | Ensure the assessor can easily reproduce your work. Clearly explain the project in the `README.md`.                                   |          —          |    ☐   |
 | **6. Progress & Feedback**       | Make regular and incremental commits. Show continuous improvement of code and explanations.                                           | During the semester |    ☐   |
